@@ -11,7 +11,8 @@
 다운로드 방법:
 - Google Drive / Dropbox 등에 업로드 후 공유
 - 또는 직접 학습 (`python train_fastpitch.py`)
-
+[extra_data](https://drive.google.com/file/d/1FMxOzDG-JYN89ROYc5almIs3RdMeVHfz/view?usp=drive_link)
+[data](https://drive.google.com/file/d/1uctxn8QUGNccSncWUEL0iBPxXeBrMhWm/view?usp=drive_link)
 ### 2. VocGAN Vocoder (104MB)
 **경로**: `vocoder/pretrained_models/vocgan_kss_pretrained_model_epoch_4500.pt`
 
