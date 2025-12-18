@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+log/
+output/nvlog.json*
+
+# Results
+results/*.wav
+results/*.png
+temp_*.wav
+
+# Data (large files)
+dataset/kss/wavs/
+dataset/kss/wavs_bak/
+dataset/kss/*.wav
+archive/
+
+# Model checkpoints (large files)
+ckpt/
+*.pth.tar
+*.pt
+*.ckpt
+
+# Vocoder models
+vocoder/pretrained_models/*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+nul
+*.tmp
